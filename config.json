@@ -1,0 +1,7 @@
+{
+  "username": "Gamesggge",
+  "password": "12345678",
+  "database": "Product",
+  "host": "gamesggge.ru",
+  "dialect": "postgres"
+}

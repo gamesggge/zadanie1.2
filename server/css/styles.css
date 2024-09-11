@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#actions-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.action-item {
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.action-item p {
+    margin: 5px 0;
+}
